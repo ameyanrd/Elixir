@@ -1,2 +1,0 @@
-# Elixir
-My elixir repo

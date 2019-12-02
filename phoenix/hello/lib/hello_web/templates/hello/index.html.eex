@@ -1,3 +1,1 @@
-<div class="phx-hero">
-  <h2>Hello World, from Phoenix!</h2>
-</div>
+<script type="text/javascript" src="js/app.bundle.js"></script><script type="text/javascript" src="js/editor.worker.bundle.js"></script><script type="text/javascript" src="js/json.worker.bundle.js"></script><script type="text/javascript" src="js/css.worker.bundle.js"></script><script type="text/javascript" src="js/html.worker.bundle.js"></script><script type="text/javascript" src="js/ts.worker.bundle.js"></script>

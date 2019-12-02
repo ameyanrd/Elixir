@@ -21,6 +21,7 @@ defmodule M do
 
         # Cond works like else if
         # it only hits the 1st match
+        age = IO.gets("")
         cond do
             age >= 18 -> IO.puts "You can vote"
             age >= 16 -> IO.puts "You can drive"
